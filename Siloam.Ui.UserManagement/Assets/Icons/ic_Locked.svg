@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.752" height="21.752" viewBox="0 0 21.752 21.752">
+    <defs>
+        <style>
+            .cls-1{fill:#ffd1d1;opacity:.981}.cls-2{fill:none}.cls-3{fill:#c43d32;stroke:rgba(0,0,0,0)}
+        </style>
+    </defs>
+    <g id="ic_Locked" transform="translate(-268 -269)">
+        <rect id="Rectangle_11770" width="21.752" height="21.752" class="cls-1" data-name="Rectangle 11770" rx="4" transform="translate(268 269)"/>
+        <g id="Group_9727" data-name="Group 9727">
+            <path id="Path_35696" d="M-.388 0H14v14H-.388z" class="cls-2" data-name="Path 35696" transform="translate(272.388 273)"/>
+            <path id="Subtraction_7" d="M-143.062-103h-9.625a1.271 1.271 0 0 1-.93-.383 1.271 1.271 0 0 1-.383-.93v-5.25a1.271 1.271 0 0 1 .383-.93 1.271 1.271 0 0 1 .93-.382h.656v-1.969a4.06 4.06 0 0 1 .561-2.078 4.191 4.191 0 0 1 1.517-1.517 4.06 4.06 0 0 1 2.078-.561 4.056 4.056 0 0 1 2.078.561 4.2 4.2 0 0 1 1.518 1.517 4.06 4.06 0 0 1 .56 2.078v1.969h.657a1.271 1.271 0 0 1 .93.382 1.271 1.271 0 0 1 .382.93v5.25a1.271 1.271 0 0 1-.382.93 1.272 1.272 0 0 1-.93.383zm-4.842-5.773a1 1 0 0 0-1 1 1 1 0 0 0 .511.872v1.747h1v-1.759a.991.991 0 0 0 .489-.859 1 1 0 0 0-.996-1zm.029-6.04a1.9 1.9 0 0 0-1.394.574 1.906 1.906 0 0 0-.574 1.394v1.969h3.938v-1.969a1.906 1.906 0 0 0-.574-1.394 1.9 1.9 0 0 0-1.396-.573z" class="cls-3" data-name="Subtraction 7" transform="translate(427 390)"/>
+        </g>
+    </g>
+</svg>

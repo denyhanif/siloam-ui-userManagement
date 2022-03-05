@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#171717}
+        </style>
+    </defs>
+    <g id="ic_App">
+        <g id="Bounding_Boxes">
+            <path id="Path_34603" d="M0 0h24v24H0z" class="cls-1" data-name="Path 34603"/>
+        </g>
+        <g id="Rounded">
+            <path id="Path_34604" d="M4 8h4V4H4zm6 12h4v-4h-4zm-6 0h4v-4H4zm0-6h4v-4H4zm6 0h4v-4h-4zm6-10v4h4V4zm-6 4h4V4h-4zm6 6h4v-4h-4zm0 6h4v-4h-4z" class="cls-2" data-name="Path 34604"/>
+        </g>
+    </g>
+</svg>

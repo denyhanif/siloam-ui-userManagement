@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.752 21.752">
+    <defs>
+        <style>
+            .cls-1{fill:#7784ff;opacity:.203}.cls-2{fill:#1a2269}
+        </style>
+    </defs>
+    <g id="ic_MoreDetail" transform="translate(-220 -254)">
+        <rect id="Rectangle_11770" width="21.752" height="21.752" class="cls-1" data-name="Rectangle 11770" rx="4" transform="translate(220 254)"/>
+        <g id="Group_9232" data-name="Group 9232" transform="translate(-1022.408 61.536)">
+            <circle id="Ellipse_123" cx="1.8" cy="1.8" r="1.8" class="cls-2" data-name="Ellipse 123" transform="translate(1246 202)"/>
+            <circle id="Ellipse_124" cx="1.8" cy="1.8" r="1.8" class="cls-2" data-name="Ellipse 124" transform="translate(1251.401 202)"/>
+            <circle id="Ellipse_125" cx="1.8" cy="1.8" r="1.8" class="cls-2" data-name="Ellipse 125" transform="translate(1256.802 202)"/>
+        </g>
+    </g>
+</svg>

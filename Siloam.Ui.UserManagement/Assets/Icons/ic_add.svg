@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-1{fill:#4d9b35}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="ic_add" transform="translate(-572 -182)">
+        <g id="Group_9466" data-name="Group 9466" transform="translate(64 -194)">
+            <ellipse id="ic_CreateNewOrder" cx="12" cy="12" class="cls-1" rx="12" ry="12" transform="translate(508 376)"/>
+            <path id="Path_4697" d="M1402.96 68.723v-2.566h-6.217V59.94h-2.567v6.217h-6.216v2.566h6.216v6.217h2.567v-6.217z" class="cls-2" data-name="Path 4697" transform="translate(-875.459 320.561)"/>
+        </g>
+    </g>
+</svg>

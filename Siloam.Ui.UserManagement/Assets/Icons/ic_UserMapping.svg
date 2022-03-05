@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.238 24.617">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#171717}
+        </style>
+    </defs>
+    <g id="ic_UserMapping" transform="translate(.238 .04)">
+        <g id="Bounding_Boxes">
+            <path id="Path_34605" d="M0 0h24v24H0z" class="cls-1" data-name="Path 34605"/>
+        </g>
+        <g id="Group_9541" data-name="Group 9541" transform="translate(-307.242 -389.281)">
+            <path id="Rectangle_12044" d="M0 0h5.28v1.167H0z" class="cls-2" data-name="Rectangle 12044" transform="translate(319.912 394.608)"/>
+            <path id="Rectangle_12045" d="M0 0h7.28v1.167H0z" class="cls-2" data-name="Rectangle 12045" transform="rotate(45 -322.249 584.84)"/>
+            <path id="Rectangle_12046" d="M0 0h3.392v1.167H0z" class="cls-2" data-name="Rectangle 12046" transform="rotate(90 -43.878 357.611)"/>
+            <path id="Subtraction_3" d="M67.22-45.586a3.027 3.027 0 0 1-2.978-3.066 3.027 3.027 0 0 1 2.978-3.066 3.027 3.027 0 0 1 2.98 3.066 3.027 3.027 0 0 1-2.98 3.066zm.017-5.119a2.055 2.055 0 0 0-2.021 2.082 2.054 2.054 0 0 0 2.021 2.081 2.054 2.054 0 0 0 2.021-2.081 2.055 2.055 0 0 0-2.021-2.082z" class="cls-2" data-name="Subtraction 3" transform="translate(260.195 443.823)"/>
+            <path id="Subtraction_4" d="M68.7-42.8a4.467 4.467 0 0 1-4.462-4.462 4.467 4.467 0 0 1 4.462-4.457 4.466 4.466 0 0 1 4.461 4.461A4.467 4.467 0 0 1 68.7-42.8zm0-7.66a3.2 3.2 0 0 0-3.2 3.2 3.2 3.2 0 0 0 3.2 3.2 3.2 3.2 0 0 0 3.2-3.2 3.2 3.2 0 0 0-3.2-3.195z" class="cls-2" data-name="Subtraction 4" transform="translate(257.803 454.59)"/>
+            <path id="Subtraction_5" d="M69.138-41.927a4.9 4.9 0 0 1-4.9-4.9 4.9 4.9 0 0 1 4.9-4.9 4.9 4.9 0 0 1 4.9 4.9 4.9 4.9 0 0 1-4.9 4.9zm0-8.708a3.817 3.817 0 0 0-3.812 3.812 3.817 3.817 0 0 0 3.812 3.813 3.817 3.817 0 0 0 3.812-3.813 3.817 3.817 0 0 0-3.812-3.813z" class="cls-2" data-name="Subtraction 5" transform="translate(244.014 455.786)"/>
+            <g id="Rounded" transform="translate(307.004 389.241)">
+                <path id="Path_34606" d="M8.7 2a6.7 6.7 0 1 0 6.7 6.7A6.7 6.7 0 0 0 8.7 2zm2.419 4.249a1.294 1.294 0 1 1-1.291 1.294 1.29 1.29 0 0 1 1.294-1.294zM7.1 5.19a1.582 1.582 0 1 1-1.581 1.582A1.585 1.585 0 0 1 7.1 5.19zm0 6.119v2.513A5.366 5.366 0 0 1 3.655 10.5 5.622 5.622 0 0 1 7.1 9.366a6.818 6.818 0 0 1 1.273.147A2.025 2.025 0 0 0 7.1 11.309zm1.6 2.755a4.592 4.592 0 0 1-.529-.027v-2.728c0-.952 1.97-1.428 2.949-1.428a4.751 4.751 0 0 1 2.574.771A5.374 5.374 0 0 1 8.7 14.064z" class="cls-2" data-name="Path 34606" transform="translate(-2 -2)"/>
+            </g>
+        </g>
+    </g>
+</svg>

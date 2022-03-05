@@ -1,0 +1,310 @@
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll.config
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.pdb
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe.config
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.rsp
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe.config
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.rsp
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.AppContext.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Console.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Compression.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Claims.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.ValueTuple.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe.config
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.rsp
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.bootstrap.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.WebForms.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Algorithms.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Encoding.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Primitives.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.X509Certificates.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\WebGrease.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.xml
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.xml
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.pdb
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CoreCompileInputs.cache
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CopyComplete
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.pdb
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\SiloamConfig.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csprojAssemblyReference.cache
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.dll
+D:\TFS_Source\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll.config
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.pdb
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe.config
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.rsp
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe.config
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.rsp
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.AppContext.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Console.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Compression.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Claims.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.ValueTuple.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe.config
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.rsp
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\SiloamConfig.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Algorithms.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Encoding.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Primitives.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\WebGrease.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.pdb
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csprojAssemblyReference.cache
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CoreCompileInputs.cache
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CopyComplete
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.dll
+D:\Local_Source\BOOTCAMP\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.pdb
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll.config
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.pdb
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe.config
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.rsp
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe.config
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.rsp
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.AppContext.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Console.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Compression.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Claims.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.ValueTuple.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe.config
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.rsp
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.bootstrap.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.jQuery.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.WebForms.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Algorithms.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Encoding.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Primitives.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.X509Certificates.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\WebGrease.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.xml
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\SiloamConfig.pdb
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.xml
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.xml
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.pdb
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CoreCompileInputs.cache
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CopyComplete
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.dll
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.pdb
+D:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csprojAssemblyReference.cache
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll.config
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Siloam.Ui.UserManagement.pdb
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.exe.config
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csc.rsp
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.exe.config
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\csi.rsp
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.AppContext.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Console.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Compression.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.IO.Pipes.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.AccessControl.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Claims.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.ValueTuple.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.exe.config
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\vbc.rsp
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.bootstrap.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\AspNet.ScriptManager.jQuery.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.ScriptManager.WebForms.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Algorithms.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Encoding.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.Primitives.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Security.Cryptography.X509Certificates.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\WebGrease.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\log4net.xml
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\System.Web.Optimization.xml
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Newtonsoft.Json.xml
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Antlr3.Runtime.pdb
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CoreCompileInputs.cache
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.csproj.CopyComplete
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.dll
+E:\siloam\sampe bootcamp\ux-web-gx-user-management\Siloam.Ui.UserManagement\Siloam.Ui.UserManagement\obj\Release\Siloam.Ui.UserManagement.pdb

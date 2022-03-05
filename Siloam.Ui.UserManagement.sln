@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siloam.Ui.UserManagement", "Siloam.Ui.UserManagement\Siloam.Ui.UserManagement.csproj", "{E14E6AA5-ACF4-4926-B66A-04C8DFB2EAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14E6AA5-ACF4-4926-B66A-04C8DFB2EAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14E6AA5-ACF4-4926-B66A-04C8DFB2EAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14E6AA5-ACF4-4926-B66A-04C8DFB2EAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14E6AA5-ACF4-4926-B66A-04C8DFB2EAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761CF0D7-237E-42B7-A21F-B1B5E1BCE3AD}
+	EndGlobalSection
+EndGlobal
